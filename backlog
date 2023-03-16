@@ -1,0 +1,36 @@
+## Client :
+
+Le président directeur mondial de Mars.
+
+## Problême :
+
+Radiation dangeureuse causé par 3 type de minerais.
+(peut être d'autres)
+
+## Solution :
+
+Créer une application qui permette au habitants du monde entier de visualiser les zones sensibles à éviter.
+
+Liste de fonctionalité :
+
+-   Ajout de zone radioactive avec comme option :
+    -   Combien de minerais dans cette zone ?
+    -   De quel(s) type est(sont) le(s) minerai(s) (AVEC ajout d'un type "INCONNU" si minerai NON découvert)
+    -   Sur une échelle de 1 à 10, quel est le niveau de dangerosité ?
+    -   Date de cartographie enregistrer et afficher après validation.
+
+## A faire :
+
+(Commit réguliers)
+
+-   Créer un backlog.
+-   Créer une maquette
+-   Créer un MCD et MLD.
+-   Créer un kanban
+-   LAncer un projet LARAVEL
+-   Tâche :
+    -   Créer la base de donnée avec les migrations
+    -
+    -
+-   Créer un fichier "formation" pour l'utilisation de l'appli.
+-   Dernier commit dans le dépot GIT avec Figma, MCD, MLD, Kanban.
